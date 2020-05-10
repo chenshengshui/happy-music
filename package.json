@@ -6,7 +6,8 @@
   "author": "WaterMan",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --config ./build/webpack.dev.js"
+    "dev": "webpack-dev-server --config ./build/webpack.dev.js",
+    "beforepublish": "./release.sh"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
