@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 
 # 可以直接设置为开发分支，origin为远程地址
@@ -22,4 +21,3 @@ git push --follow-tags origin $master
 
 echo "Git push origin $master"
 echo "Release finished."
-```
