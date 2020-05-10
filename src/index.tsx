@@ -9,7 +9,7 @@ class Hello extends React.Component {
             <div
                 onClick={() => {
                     Dialog.confirm({
-                        title: 'hhh'
+                        title: 'Happy Music'
                     });
                 }}
             >
