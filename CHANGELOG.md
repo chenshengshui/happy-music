@@ -1,3 +1,16 @@
+## [1.0.3](https://github.com/chenshengshui/happy-music/compare/v1.0.2...v1.0.3) (2020-05-10)
+
+
+### chore
+
+* 修改预发布命令 ([cc1d6b4](https://github.com/chenshengshui/happy-music/commit/cc1d6b4b147969ec931d1f494fbb892b2d514897))
+
+### docs
+
+* update changelog ([d7e53ec](https://github.com/chenshengshui/happy-music/commit/d7e53ec30050376915bafae763992732c615e24c))
+
+
+
 ## [1.0.2](https://github.com/chenshengshui/happy-music/compare/v1.0.1...v1.0.2) (2020-05-10)
 
 
